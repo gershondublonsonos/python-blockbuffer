@@ -3,7 +3,7 @@ from typing import Any, Iterator, Optional, Union
 import numpy as np
 from numpy.typing import NDArray
 
-from .exceptions import BlockBufferFullException, BlockBufferValueException
+from blockbuffer.exceptions import BlockBufferFullException, BlockBufferValueException
 
 BLOCK_BUFFER_DEFAULT_CAPACITY_BLOCKS = 64
 
