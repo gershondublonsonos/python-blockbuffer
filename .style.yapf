@@ -1,0 +1,8 @@
+[style]
+based_on_style = google
+spaces_before_comment = 2
+split_before_logical_operator = true
+column_limit = 120
+split_all_top_level_comma_separated_values = true
+each_dict_entry_on_separate_line = true
+force_multiline_dict = true
