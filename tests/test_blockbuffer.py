@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
 
-from blockbuffer import (BlockBuffer, BlockBufferFullException, BlockBufferValueException)
+from blockbuffer import BlockBuffer, BlockBufferFullException, BlockBufferValueException
 
 
 def test_blockbuffer_basic():
